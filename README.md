@@ -86,7 +86,7 @@
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/sxemixa/Apatrments-for-sell">Исследование объявлений о продаже квартир</a></td>
+    <td><a href = "https://github.com/nikolay-avdeev/yandex_real_estate/">Исследование объявлений о продаже квартир</a></td>
   <td>Яндекс.Практикум</td>
   <td>Нужно научиться определять рыночную стоимость объектов недвижимости</td>
   <td>Завершен</td>
