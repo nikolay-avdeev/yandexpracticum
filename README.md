@@ -22,9 +22,9 @@
   <th>Статус проекта</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/nikolay-avdeev/SQL">Предсказание температуры стали</a></td>
+  <td><a href = "https://github.com/nikolay-avdeev/SQL">Задание на знание SQL</a></td>
   <td>Собес 1</td>
-  <td>Задание на знание SQL</td>
+  <td>Создать таблицы, Создать функцию, Создать представление, Создать процедуру, Создать триггер</td>
   <td>Завершен</td>
 </tr>
 </table>
